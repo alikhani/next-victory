@@ -1,0 +1,17 @@
+{
+  "name": "next-victory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "beta",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "victory": "^0.18.0"
+  }
+}
